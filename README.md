@@ -2,7 +2,7 @@
 
 This starter contains a simple build process and TypeScript compilation for Minecraft.
 
-This was taken from the original repo available here [https://github.com/microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - they also include a nice tutorial - you can follow along here, check the README.md for the tutorial [https://github.com/microsoft/minecraft-scripting-samples/tree/main/ts-starter](https://github.com/microsoft/minecraft-scripting-samples/tree/main/ts-starter)
+> This was taken from the original repo available here [https://github.com/microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - they also include a nice tutorial - you can follow along here [https://github.com/microsoft/minecraft-scripting-samples/tree/main/ts-starter](https://github.com/microsoft/minecraft-scripting-samples/tree/main/ts-starter)
 
 This readme shows how you can use Betas APIs experiment to build out simple gameplay styles. You can use this project as a starter for your own scripting projects.
 
@@ -33,6 +33,13 @@ Visit the [Visual Studio Code website](https://code.visualstudio.com) and instal
    ```
 
 It might also ask you to install the Minecraft Debugger and Blockception's Visual Studio Code plugin, which are plugins to Visual Studio Code that can help with Minecraft development. Go ahead and do that, if you haven't already.
+
+1. Available commands:
+
+   ```powershell
+   npm run build # Build the project
+   npm run dev # Build the project and watch for changes
+   ```
 
 ### Chapter 1. Customize the behavior pack
 
