@@ -2,6 +2,8 @@
 
 This starter contains a simple build process and TypeScript compilation for Minecraft.
 
+![Minecraft Scripting TypeScript Starter](./extra/minecraft-logo.png)
+
 > This was taken from the original repo available here [https://github.com/microsoft/minecraft-scripting-samples](https://github.com/microsoft/minecraft-scripting-samples) - they also include a nice tutorial - you can follow along here [https://github.com/microsoft/minecraft-scripting-samples/tree/main/ts-starter](https://github.com/microsoft/minecraft-scripting-samples/tree/main/ts-starter)
 
 This readme shows how you can use Betas APIs experiment to build out simple gameplay styles. You can use this project as a starter for your own scripting projects.
@@ -119,3 +121,9 @@ If you'r like to learn more about minecraft scripting using TypeScript, please r
 - [gulpfile.js](https://github.com/microsoft/minecraft-scripting-samples/blob/main/ts-starter/gulpfile.js): This file contains build instructions for Gulp, for building out TypeScript code.
 - [scripts](https://github.com/microsoft/minecraft-scripting-samples/blob/main/ts-starter/scripts): This contains all of your TypeScript files, that will be compiled and built into your projects.
 - [behavior_packs](https://github.com/microsoft/minecraft-scripting-samples/blob/main/ts-starter/behavior_packs): This contains resources and JSON files that define your behavior pack.
+
+## Trademarks
+
+This project is not affiliated with, endorsed, sponsored, or specifically approved by Microsoft Corporation.
+
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow Microsoft's Trademark & Brand Guidelines. Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party's policies.
